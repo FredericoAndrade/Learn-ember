@@ -1,0 +1,1 @@
+#Building a Reading List App using Ember.js and Firebase
